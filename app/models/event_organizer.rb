@@ -1,0 +1,2 @@
+class EventOrganizer < User
+end
