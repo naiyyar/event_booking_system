@@ -10,7 +10,7 @@ Event Organizers should be able to create, read, and update events, while Custom
 
 ## **📌 Features**
 
-✅ **Event Organiser Boards** – Create, edit, and manage multiple events. 
+✅ **Event Organiser Boards** – Create, edit, and manage multiple events.
 ✅ **Customer Boards** – View events and booking.  
 ✅ **User Authentication** – Secure login & signup.  
 ✅ **User Authorization** – Secure login & signup. 
