@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  post "/graphql", to: "graphql#execute"
   get "tickets/create"
   get "bookings/create"
   get "events/create"
